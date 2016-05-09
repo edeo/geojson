@@ -5,6 +5,7 @@
 "geometry": {
 "type": "Polygon",
 "coordinates": [
+    [
 [
 -57.625133,
 -30.216295
@@ -817,7 +818,7 @@
 -57.625133,
 -30.216295
 ]
-]
+]]
 },
 "properties": {
 "name": "Brazil",
